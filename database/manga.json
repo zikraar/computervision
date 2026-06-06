@@ -1,0 +1,55 @@
+// manga.json - appV1.0 Rev 0
+{
+  "manga_id": "dragonslayer-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "Return of the Peerless Dragon Slayer, Sang Pembunuh Naga yang Tak Tertandingi",
+  "status": "Ongoing",
+  "author": "Jang Dam",
+  "artist": "Kkulbeol",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.85,
+  "synopsis": "Kemanusiaan hancur di bawah cengkeraman naga jahat. Eugene, sang Pembunuh Naga terakhir, berjuang hingga nafas penghabisan namun gagal menyelamatkan dunianya. Saat kematian menjemputnya, ia mendapati dirinya kembali ke masa lalu saat ia masih menjadi seorang rekrutan akademi yang lemah. Dengan ingatan, pengalaman, dan teknik membunuh naga dari kehidupan masa lalunya, Eugene bersumpah untuk mengubah takdir dan membantai seluruh naga sebelum mereka menghancurkan dunia untuk kedua kalinya.",
+  "cover_url": "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/covers/dragonslayer-peerless-regression.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Awal dari Akhir",
+      "raw_image_links": [
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch001/01.jpg",
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch001/02.jpg",
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch001/03.jpg",
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch001/04.jpg",
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch001/05.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Kembali ke Akademi",
+      "raw_image_links": [
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch002/01.jpg",
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch002/02.jpg",
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch002/03.jpg",
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch002/04.jpg"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Ujian Pertama",
+      "raw_image_links": [
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch003/01.jpg",
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch003/02.jpg",
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch003/03.jpg",
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch003/04.jpg",
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch003/05.jpg"
+      ]
+    }
+  ]
+}
